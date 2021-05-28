@@ -13,11 +13,12 @@ PLUGIN_METADATA = {
     'author': [
         'Sanluli36li'
     ],
+    'link': 'https://github.com/DGBCraft/AutoZipBackup',
     'dependencies': {
         'mcdreforged': '>=1.2.0',
         'minecraft_data_api': '*',
         'permanent_backup': '>=1.0.0'
-	}
+    }
 }
 
 config = {
